@@ -1,0 +1,18 @@
+{
+    "name": "ay4t/crypto-address-validator",
+    "description": "PHP library for multiple crypto address validation",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ay4t\\CryptoAddressValidator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ayatulloh Ahad R",
+            "email": "kawoel@gmail.com"
+        }
+    ],
+    "require": {}
+}
